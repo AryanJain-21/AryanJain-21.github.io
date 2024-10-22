@@ -2,21 +2,29 @@
 Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
 ### Education
 Candidate for B.S. in Data Science and Business Administration
-Concentration in Supply Chain Management
+Concentration in Supply Chain Management | Northeastern University (August 2023 - May 2027)
 GPA: 3.79 / 4.0
 
 ### Work Experience
-Associate Consultant @ Toyota Financial Services (June 2022 - Present)
+Research Assistant and Developer @ Simbiosys Lab (October 2023 - Present)
+
+
+
+Associate Consultant @ Vital Ventures Consulting (October 2024 - Present)
 
 ●	Conduct market and competitive analysis to devise strategic recommendations for innovative haptic touch-based technology startup empowering the visually impaired and enhancing user experience across different platforms
 ●	Drive exploration in new product verticals/industries to expand on business models shifting to B2B SaaS
 ●	Execute primary/secondary research to evaluate funding feasibility from diverse tech-focused health VCs
 
+Data Analyst @ Scout - Design Studio (September 2024 - Present)
 
 
-Weeks of Welcome Poster Competition - UTD, Fall 2019
+### Projects
 
-A Brief Introduction to Networks - GSP Seminar, Spring 2019
+Netflix Dashboard
+League Database Manager
+Covid Hospitalization 
+Voltare
+EV Visualization
 
-Data Science YouTube
 
