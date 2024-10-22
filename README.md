@@ -1,5 +1,8 @@
 # Data Scientist
-Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+
+## Computer Knowledge
+Technical: Python, SQL/SQLite, MongoDB, Redis, Java, R, C++, HTML, CSS, JavaScript, Git
+Tools: Docker, AWS, MongoDB Compass, GitHub, Tableau, Figma, Microsoft 365, SPSS Statistics
 ### Education
 Candidate for B.S. in Data Science and Business Administration
 Concentration in Supply Chain Management | Northeastern University (August 2023 - May 2027)
