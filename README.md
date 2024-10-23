@@ -35,17 +35,25 @@ Database Design, Advanced Programming with Data, Information Visualization, Larg
 - Execute data-driven experiments through linear math and geometry to present insights for decision-making.  
 - Develop protein structure heatmaps through data and statistical analysis, communicating research goals effectively.
 
+**Teaching Assistant @ Khoury College of Computer Sciences**
+*August 2024 - Present*
+- Drive personal growth students to mentor students to enhance their academic careers, helping them identify and pursue their personal and professional goals.
+- Facilitate learning supporting students in understanding Computer Science materials, bridging the gap between classroom theory and practical applications.
+- Manage course logistics, ensuring smooth operations and effective communication between students and faculty.
+
+**Data Analyst @ Scout - Design Studio**  
+*September 2024 - Present*  
+- Perform advanced data analysis and visualization to tell impactful stories and create awareness for non-profits.  
+- Develop a full-stack framework to bring data into user dashboards for interactive analysis and exploration.  
+- Consult teams on code development and troubleshooting, focused on constant process improvement.
+
 **Associate Consultant @ Vital Ventures Consulting**  
 *October 2024 - Present*  
 - Conduct market and competitive analysis to devise strategic recommendations for an innovative haptic touch-based technology startup empowering the visually impaired and enhancing user experience across different platforms.  
 - Drive exploration in new product verticals/industries to expand business models shifting to B2B SaaS.  
 - Execute primary/secondary research to evaluate funding feasibility from diverse tech-focused health VCs.
 
-**Data Analyst @ Scout - Design Studio**  
-*August 2024 - Present*  
-- Perform advanced data analysis and visualization to tell impactful stories and create awareness for non-profits.  
-- Develop a full-stack framework to bring data into user dashboards for interactive analysis and exploration.  
-- Consult teams on code development and troubleshooting, focused on constant process improvement.
+
 
 ## Projects
 
