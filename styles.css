@@ -24,7 +24,7 @@ nav ul {
     list-style-type: none;
     padding: 0;
     display: flex;
-    gap: 10px; /* Space between items */
+    gap: 10px; 
 }
 
 nav ul li {
@@ -63,11 +63,11 @@ section {
 }
 
 
-.profile-image, .project-image {
-    width: 150px; /* Adjust width as needed */
-    height: 150px; /* Adjust height to maintain aspect ratio */
-    border-radius: 50%; /* Makes the image circular */
-    object-fit: cover; /* Ensures the image covers the area */
+.profile-image {
+    width: 150px; 
+    height: 150px; 
+    border-radius: 50%;
+    object-fit: cover; 
 }
 
 footer {
@@ -87,25 +87,25 @@ footer {
     }
 
     nav {
-        position: static; /* Make navigation static on small screens */
+        position: static;
         margin-top: 10px;
     }
 
     nav ul {
-        flex-direction: column; /* Stack links vertically */
+        flex-direction: column;
         align-items: center;
     }
 
     nav ul li {
-        margin-bottom: 10px; /* Space between links */
+        margin-bottom: 10px; 
     }
 
     .profile-image {
-        max-width: 100px; /* Smaller profile image on mobile */
+        max-width: 100px; 
     }
 
     section {
-        padding: 15px; /* Less padding on mobile */
+        padding: 15px;
     }
 }
 
