@@ -34,8 +34,9 @@ Database Design, Advanced Programming with Data, Information Visualization, Larg
 - Spearhead products to model glycan shielding vulnerabilities in viral protein structures to design immunogens.  
 - Execute data-driven experiments through linear math and geometry to present insights for decision-making.  
 - Develop protein structure heatmaps through data and statistical analysis, communicating research goals effectively.
+https://www.simbiosyslab.com/
 
-**Teaching Assistant @ Khoury College of Computer Sciences**
+**Teaching Assistant @ Khoury College of Computer Sciences** 
 *August 2024 - Present*
 - Drive personal growth students to mentor students to enhance their academic careers, helping them identify and pursue their personal and professional goals.
 - Facilitate learning supporting students in understanding Computer Science materials, bridging the gap between classroom theory and practical applications.
