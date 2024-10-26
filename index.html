@@ -39,19 +39,6 @@
         <p>Contact me at: <a href="mailto:jain.aryan1@northeastern.edu">jain.aryan1@northeastern.edu</a></p>
     </footer>
 
-    <script>
-        const collapsibleButtons = document.querySelectorAll('.collapsible-button');
-        collapsibleButtons.forEach(button => {
-            button.addEventListener('click', () => {
-                button.classList.toggle('active');
-                const content = button.nextElementSibling;
-                if (content.style.maxHeight) {
-                    content.style.maxHeight = null;
-                } else {
-                    content.style.maxHeight = content.scrollHeight + "px";
-                }
-            });
-        });
-    </script>
+    <script src="script.js"></script>
 </body>
 </html>
